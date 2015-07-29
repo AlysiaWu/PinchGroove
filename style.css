@@ -2,6 +2,15 @@ audio{
 	display:none;
 }
 body{
-
 	
+}
+
+.jumbotron {
+    margin-bottom: 0px;
+    background-image: url(perpetual_groove_live_music_painting_by_brianmoss-d53kdxq.jpg);
+    background-position: 0% 25%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: white;
+    text-shadow: black 0.3em 0.3em 0.3em;
 }
